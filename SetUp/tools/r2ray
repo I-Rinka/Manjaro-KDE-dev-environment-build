@@ -1,0 +1,37 @@
+# echo $1
+if [ "$1" == "on" ]
+then
+    echo -e "\033[42;30mv2ray 服务启动\033[0m"
+    nohup v2ray -config /etc/v2ray/config.json &
+    echo 'ProxyUrlDisplayFlags=8
+
+[Proxy Settings]
+NoProxyFor=
+Proxy Config Script=
+ProxyType=1
+ReversedException=false
+ftpProxy=
+httpProxy=
+httpsProxy=
+socksProxy=socks://127.0.0.1 1080
+    ' > ~/.config/kioslaverc
+    
+elif [ "$1" == "off" ]
+then
+    echo 'ProxyUrlDisplayFlags=8
+
+[Proxy Settings]
+NoProxyFor=
+Proxy Config Script=
+ProxyType=0
+ReversedException=false
+ftpProxy=
+httpProxy=
+httpsProxy=
+socksProxy=socks://127.0.0.1 1080
+    ' > ~/.config/kioslaverc
+    pkill v2ray
+    echo -e "\033[41;37mv2ray服务已停止\033[0m"
+else
+    echo -e "输入 \033[42;30m\"./脚本名字 on\"\033[0m\n或者 \033[41m\"./脚本名字 off\"\033[0m 来控制程序开关 "
+fi
