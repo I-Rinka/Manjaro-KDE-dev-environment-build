@@ -23,6 +23,8 @@ fi
 bash ./MvConfig.sh
 if [ $? -eq 0 ]
 then
+    cp ./KDEKeyMap $HOME/Desktop
+    cp ./winIcon.svg $HOME/Desktop
     echo -e "\033[42;30m#####配置已完成#####\033[0m"
 else
     echo -e "\033[41;37m#####配置出现错误#####\033[0m"

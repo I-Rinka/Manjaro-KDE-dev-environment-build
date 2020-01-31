@@ -45,9 +45,9 @@ sudo echo "source /home/$USER/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 
 #把工具复制到bin里面
-chmod +x ./tools/r2ray
-chmod +x ./tools/scode
-chmod +x ./tools/timeSync.sh
+sudo chmod +x ./tools/r2ray
+sudo chmod +x ./tools/scode
+sudo chmod +x ./tools/timeSync.sh
 sudo cp ./tools/r2ray /bin
 sudo cp ./tools/scode /bin
 cp -rf ./tools $HOME
