@@ -1,1 +1,5 @@
+#scode用法： scode [目录]
+#scode会以当前用户的配置打开指定目录
+#如：sudo scode /
+#以root权限打开根目录
 code --user-data-dir $HOME $1
