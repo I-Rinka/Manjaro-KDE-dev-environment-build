@@ -1,1 +1,2 @@
-echo "hello i'm branch 1"
+cd /
+sudo mkdir test

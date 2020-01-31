@@ -1,5 +1,4 @@
 #先是换源
-sudo passwd root
 sudo pacman-mirrors -i -c China -m rank
 sudo pacman -Syy && sudo pacman -S archlinuxcn-keyring
 if [ $? -eq 0 ]
