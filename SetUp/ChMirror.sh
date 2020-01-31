@@ -12,6 +12,7 @@ Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
     ' >> "/etc/pacman.conf"
     echo -e "\033[42;30m换源已经完成"
 else
-    echo -e "\033[41;37m出现错误\033[0m"
+    echo -e "\033[41;37m换源出现错误\033[0m"
+    exit
 fi
 #$?代表上一指令的执行情况
