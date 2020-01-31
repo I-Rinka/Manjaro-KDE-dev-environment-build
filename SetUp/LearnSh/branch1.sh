@@ -1,2 +1,2 @@
 cd /
-sudo mkdir test
+sudo mkdir test2
