@@ -7,4 +7,3 @@ echo "exit"
 exit
 fi
 echo "continue"
-bash ./next.sh
