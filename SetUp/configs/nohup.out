@@ -1,0 +1,41 @@
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start v2ray.com/core/app/proxyman/inbound: failed to listen TCP on 1080 > v2ray.com/core/transport/internet: failed to listen on address: 127.0.0.1:1080 > listen tcp 127.0.0.1:1080: bind: address already in use
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start v2ray.com/core/app/proxyman/inbound: failed to listen TCP on 1080 > v2ray.com/core/transport/internet: failed to listen on address: 127.0.0.1:1080 > listen tcp 127.0.0.1:1080: bind: address already in use
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+2020/03/08 09:20:57 [Warning] v2ray.com/core: V2Ray 4.22.1 started
+2020/03/08 09:21:03 tcp:127.0.0.1:41474 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:21:03 tcp:127.0.0.1:41472 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:21:04 tcp:127.0.0.1:41478 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:21:04 tcp:127.0.0.1:41476 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:21:07 tcp:127.0.0.1:41486 accepted tcp:youtube.com:443 [direct] 
+2020/03/08 09:21:07 tcp:127.0.0.1:41484 accepted tcp:youtube.com:443 [direct] 
+2020/03/08 09:21:33 tcp:127.0.0.1:41522 accepted tcp:www.gstatic.com:80 [direct] 
+2020/03/08 09:21:42 tcp:127.0.0.1:41526 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:21:42 tcp:127.0.0.1:41528 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:23:23 tcp:127.0.0.1:41544 accepted tcp:az764295.vo.msecnd.net:443 [direct] 
+2020/03/08 09:24:36 tcp:127.0.0.1:41550 accepted tcp:clients2.google.com:443 [direct] 
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start v2ray.com/core/app/proxyman/inbound: failed to listen TCP on 1080 > v2ray.com/core/transport/internet: failed to listen on address: 127.0.0.1:1080 > listen tcp 127.0.0.1:1080: bind: address already in use
+2020/03/08 09:24:52 tcp:127.0.0.1:41556 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:52 tcp:127.0.0.1:41554 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:52 tcp:127.0.0.1:41558 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:54 [Warning] v2ray.com/core/app/router: resolve ip for a > v2ray.com/core/app/dns: invalid domain name
+2020/03/08 09:24:54 tcp:127.0.0.1:41578 accepted tcp:a:80 [direct] 
+2020/03/08 09:24:54 tcp:127.0.0.1:41562 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:24:54 tcp:127.0.0.1:41560 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:24:56 tcp:127.0.0.1:41566 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:56 tcp:127.0.0.1:41564 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:57 tcp:127.0.0.1:41576 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:24:58 tcp:127.0.0.1:41580 accepted tcp:www.google.com:443 [direct] 
+2020/03/08 09:25:22 tcp:127.0.0.1:41622 accepted tcp:accounts.google.com:443 [direct] 
+2020/03/08 09:25:24 tcp:127.0.0.1:41624 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:25:24 tcp:127.0.0.1:41626 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:25:59 tcp:127.0.0.1:41660 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:25:59 tcp:127.0.0.1:41658 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:26:59 tcp:127.0.0.1:41684 accepted tcp:chrome.google.com:443 [direct] 
+2020/03/08 09:26:59 tcp:127.0.0.1:41686 accepted tcp:chrome.google.com:443 [direct] 
