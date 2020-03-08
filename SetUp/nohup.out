@@ -1,0 +1,22 @@
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+2020/03/08 09:46:41 [Warning] v2ray.com/core: V2Ray 4.22.1 started
+2020/03/08 09:46:46 tcp:127.0.0.1:42524 accepted tcp:az764295.vo.msecnd.net:443 [proxy] 
+2020/03/08 09:46:46 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:46:50 tcp:127.0.0.1:42528 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:50 tcp:127.0.0.1:42530 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:50 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:46:52 tcp:127.0.0.1:42534 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:52 tcp:127.0.0.1:42536 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:52 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:46:58 tcp:127.0.0.1:42540 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:58 tcp:127.0.0.1:42542 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:46:58 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:47:29 tcp:127.0.0.1:42546 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:47:29 tcp:127.0.0.1:42548 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:47:30 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:47:57 tcp:127.0.0.1:42554 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:47:57 tcp:127.0.0.1:42556 accepted tcp:chrome.google.com:443 [proxy] 
+2020/03/08 09:47:57 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
+2020/03/08 09:49:31 tcp:127.0.0.1:42588 accepted tcp:az764295.vo.msecnd.net:443 [proxy] 
+2020/03/08 09:49:32 [Warning] failed to handler mux client connection > v2ray.com/core/proxy/vmess/outbound: connection ends > v2ray.com/core/proxy/vmess/outbound: failed to read header > v2ray.com/core/proxy/vmess/encoding: failed to read response header > websocket: close 1000 (normal)
