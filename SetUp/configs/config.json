@@ -31,11 +31,11 @@
         "vnext": [
           {
             "address": "hk1652.azzkm.cn",
-            "port": 10550,
+            "port": 80,
             "users": [
               {
                 "id": "fa746d8c-c7b7-39dd-9d71-593bed2ee47c",
-                "alterId": 4,
+                "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto"
               }
@@ -50,7 +50,7 @@
         "security": "",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "hk1652.823km.cn"
+          "serverName": "hkbd1652.823km.cn"
         },
         "tcpSettings": null,
         "kcpSettings": null,
@@ -58,7 +58,7 @@
           "connectionReuse": true,
           "path":"/v2ray",
           "headers": {
-            "Host": "hk1652.823km.cn"
+            "Host": "hkbd1652.823km.cn"
           }
         },
         "httpSettings": null,

@@ -39,3 +39,6 @@ Failed to start v2ray.com/core/app/proxyman/inbound: failed to listen TCP on 108
 2020/03/08 09:25:59 tcp:127.0.0.1:41658 accepted tcp:chrome.google.com:443 [direct] 
 2020/03/08 09:26:59 tcp:127.0.0.1:41684 accepted tcp:chrome.google.com:443 [direct] 
 2020/03/08 09:26:59 tcp:127.0.0.1:41686 accepted tcp:chrome.google.com:443 [direct] 
+V2Ray 4.22.1 (V2Fly, a community-driven edition of V2Ray.) Custom (go1.13.5 linux/amd64)
+A unified platform for anti-censorship.
+2020/03/08 09:41:02 [Warning] v2ray.com/core: V2Ray 4.22.1 started
